@@ -1,0 +1,14 @@
+START
+
+INPUT Number1
+INPUT Number2
+INPUT Number3
+
+IF Number1 > Number2 and Number1 > Number3 THEN
+PRINT "Number1 is greatest"
+ELSE IF Number2 > Number1 and Number2 > Number3 THEN
+PRINT "Number2 is greatest"
+ELSE IF Number3 > Number1 and Number3 > Number2 THEN
+PRINT "Number3 is greatest"
+
+END
