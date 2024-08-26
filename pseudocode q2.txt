@@ -1,0 +1,10 @@
+START
+
+INPUT variable 1
+INPUT variable 2
+INPUT variable 3
+
+SET {number 1-(-number2-number 3)}
+PRINT "number"
+
+END
