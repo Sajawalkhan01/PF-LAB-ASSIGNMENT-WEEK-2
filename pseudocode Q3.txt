@@ -1,0 +1,14 @@
+START
+
+INPUT number 1
+INPUT number 2
+INPUT operator (+ or -)
+
+IF operator is "+" THEN
+PERFORM "ADDITION"
+PRINT "number1 + number2"
+ELSE IF operator "-" THEN
+PERFORM "subtraction"
+PRINT "number1 - number2"
+
+END
