@@ -1,2 +1,2 @@
-# PF-LAB-ASSIGNMENT-WEEK-2
+# 24k-3068
 Pseudocode, Logarithms, Github
